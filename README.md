@@ -1,4 +1,4 @@
-# suite_payloads
+# BurpSuite_payloads
 Payloads to be used with Burp Suite Intruder
 (Originally found on swisskeyrepo-PayloadsAllTheThings) 
 
