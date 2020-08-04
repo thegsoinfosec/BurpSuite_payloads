@@ -2,8 +2,6 @@
 Payloads to be used with Burp Suite Intruder
 (Originally found on swisskeyrepo-PayloadsAllTheThings) 
 
-git clone https://github.com/thegsoinfosec/suite_payloads.git
-
 To unzip the file in the command line do:  
 tar xjf PayloadsAllTheThings.tar.bz2
 -or-
